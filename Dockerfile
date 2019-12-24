@@ -5,7 +5,7 @@
 # TO_RUN:         docker run -d -p 80:80 --name my_wiki kuangrenfengyu/dokuwiki
 
 
-FROM raspbian/stretch
+FROM arm32v7/ubuntu
 MAINTAINER Miroslav Prasil <miroslav@prasil.info>
 
 # Set the version you want of Twiki
