@@ -1,1 +1,1 @@
-# dokuwiki-dokcer-raspberry-pi
+# dokuwiki-docker-raspberry-pi
