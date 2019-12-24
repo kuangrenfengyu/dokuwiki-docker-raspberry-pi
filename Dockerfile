@@ -5,7 +5,7 @@
 # TO_RUN:         docker run -d -p 80:80 --name my_wiki kuangrenfengyu/dokuwiki
 
 
-FROM arm32v7/ubuntu
+FROM ubuntu:16.04
 MAINTAINER Miroslav Prasil <miroslav@prasil.info>
 
 # Set the version you want of Twiki
